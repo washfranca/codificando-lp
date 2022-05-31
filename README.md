@@ -1,2 +1,2 @@
-# codigicando-lp
+# codificando-lp
 Landind Page
